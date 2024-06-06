@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+th {
+    background-color: gray;
+    text-align: left;
+    vertical-align: top;
+    padding: 0.5rem;
+}
+
+td {
+    background-color: antiquewhite;
+}
+
+span {
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+.buttonmg {
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+}
