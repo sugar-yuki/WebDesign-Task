@@ -1,0 +1,53 @@
+@charset "utf-8";
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+    width: 90%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.item {
+    background-color: #3cb371;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    width: 25%;
+}
+
+.divimg {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.divimg img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+a {
+    width: 30%;
+    border-radius: 20px;
+    background-color: #00bfff;
+    text-decoration: none;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: block;
+}
+
+p {
+    margin: auto;
+    width: 90%;
+}
